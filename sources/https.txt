@@ -58,3 +58,5 @@ https://a.nodeshare.xyz/uploads/{YYYY}/{M}/{YYYY}{MM}{DD}.txt
 https://raw.githubusercontent.com/ebrasha/abdal-proxy-hub/refs/heads/main/https-proxy-list-by-EbraSha.txt
 https://raw.githubusercontent.com/casa-ls/proxy-list/refs/heads/main/http
 https://raw.githubusercontent.com/jetkai/proxy-list/refs/heads/main/online-proxies/txt/proxies-https.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/https.txt
+https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/https.txt

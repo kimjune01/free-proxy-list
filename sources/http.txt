@@ -70,3 +70,6 @@ https://api.proxyscrape.com/v3/free-proxy-list/get?request=displayproxies&protoc
 https://proxyspace.pro/http.txt
 https://raw.githubusercontent.com/casa-ls/proxy-list/refs/heads/main/http
 https://raw.githubusercontent.com/jetkai/proxy-list/refs/heads/main/online-proxies/txt/proxies-http.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt
+https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt
+https://raw.githubusercontent.com/VPSLabCloud/VPSLab-Free-Proxy-List/main/http.txt
